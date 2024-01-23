@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Granville",
+      "lastName": "Noulton",
+      "email": "gnoulton0@engadget.com",
+      "password": "dZ0pbPgW3$",
+      "userType": "Individual"
+    },
+    {
+      "id": "2",
+      "firstName": "Marie",
+      "lastName": "Bailes",
+      "email": "mbailes1@angelfire.com",
+      "password": "lN6p7",
+      "userType": "Individual"
+    },
+    {
+      "id": "3",
+      "firstName": "Quillan",
+      "lastName": "Penright",
+      "email": "qpenright2@myspace.com",
+      "password": "aJ6u/Y?",
+      "userType": "Individual"
+    },
+    {
+      "id": "4",
+      "firstName": "Brina",
+      "lastName": "Oxnam",
+      "email": "boxnam3@over-blog.com",
+      "password": "uD4Es,/O",
+      "userType": "Individual"
+    },
+    {
+      "id": "5f67",
+      "email": "ryan@gmail.com",
+      "password": "dZ0pbPgW3$",
+      "firstName": "",
+      "lastName": "",
+      "emailVerified": false
+    },
+    {
+      "id": "7d4a",
+      "email": "ryan@gmal.com",
+      "password": "dZ0pbPgW3$",
+      "firstName": "Favour ryan",
+      "lastName": "Chukwuka",
+      "userType": "",
+      "emailVerified": false
+    },
+    {
+      "id": "a3ae",
+      "email": "ryan@gail.com",
+      "password": "dZ0pbPgW3$",
+      "firstName": "Favour ryan",
+      "lastName": "Chukwuka",
+      "userType": "independent marketer",
+      "emailVerified": false
+    }
+  ],
+  "stores": [
+    {
+      "id": "1",
+      "item": "Human meat",
+      "price": 100
+    },
+    {
+      "id": "2",
+      "item": "Dog meat",
+      "price": 50
+    },
+    {
+      "id": "3",
+      "item": "Milk",
+      "price": 1000
+    }
+  ]
+}
