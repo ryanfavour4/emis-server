@@ -9,15 +9,6 @@
       "userType": "individual"
     },
     {
-      "id": "2",
-      "firstName": "Marie",
-      "lastName": "Bailes",
-      "email": "mbailes1@angelfire.com",
-      "password": "lN6p7",
-      "userType": "individual",
-      "emailVerified": true
-    },
-    {
       "id": "a3ae",
       "email": "ryan@gail.com",
       "password": "dZ0pbPgW3$",
@@ -25,23 +16,41 @@
       "lastName": "Chukwuka",
       "userType": "independent marketer",
       "emailVerified": false
+    },
+    {
+      "email": "ryan@engadget.com",
+      "password": "dZ0pbPgW3$",
+      "firstName": "Gundy",
+      "lastName": "Paki",
+      "userType": "organization",
+      "emailVerified": true,
+      "id": "iCiMV6y"
     }
   ],
-  "stores": [
+  "personal-information": [
     {
-      "id": "1",
-      "item": "Human meat",
-      "price": 100
+      "fullName": "John Doe",
+      "bvn": "1234567890",
+      "proofOfAddressType": "Utility Bill",
+      "proofOfAddressFile": "utility_bill.jpg",
+      "identificationVerificationType": "Driver's License",
+      "identificationVerificationFile": "license.jpg",
+      "identificationNumber": "DL123456",
+      "passport": "passport.jpg",
+      "referenceID": "1",
+      "id": "1"
     },
     {
-      "id": "2",
-      "item": "Dog meat",
-      "price": 50
-    },
-    {
-      "id": "3",
-      "item": "Milk",
-      "price": 1000
+      "fullName": "Chukwuka Favour Ryan",
+      "bvn": "988766447",
+      "proofOfAddressType": "Council Tax Bill",
+      "proofOfAddressFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706194750/emis-gallery/io7zhpuk20l6v3ybme9a.png",
+      "identificationVerificationType": "Driver's License",
+      "identificationVerificationFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706194768/emis-gallery/v2st7fdtp0pzapsfrjnc.jpg",
+      "identificationNumber": "7765434699755",
+      "passport": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706194776/emis-gallery/eitghdzssngntkhd7iq1.png",
+      "referenceID": "a3ae",
+      "id": "kbnj2WZ"
     }
   ]
 }
