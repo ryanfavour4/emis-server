@@ -1,6 +1,6 @@
 {
-  "name": "emis-json-server",
-  "version": "1.0.0",
+  "name": "emis-server",
+  "version": "1.0.4",
   "license": "ISC",
   "description": "",
   "main": "index.js",
@@ -15,11 +15,11 @@
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/UmaSahni/render-json-server.git",
+  "repository": "https://github.com/ryanfavour4/emis-server.git",
   "keywords": [],
-  "author": "",
+  "author": "ryanfavour4",
   "bugs": {
-    "url": "https://github.com/UmaSahni/render-json-server/issues"
+    "url": "https://github.com/ryanfavour4/emis-server/issues"
   },
-  "homepage": "https://github.com/UmaSahni/render-json-server#readme"
+  "homepage": "https://emis-server.onrender.com"
 }
