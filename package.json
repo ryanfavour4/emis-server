@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "pretest": "json-server --watch db.json --port 3000",
+    "pretest": "json-server --watch db.json --port 5432",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
