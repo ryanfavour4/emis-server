@@ -1,74 +1,84 @@
 {
-  "users": [
-    {
-      "email": "toma1vv@assscczxzw.website",
-      "password": "toma1vv.",
-      "firstName": "toma1vv",
-      "lastName": "assscczxzw",
-      "userType": "channel partner",
-      "emailVerified": true,
-      "id": "DpO2PiZ"
-    }
-  ],
-  "personal-information": [
-    {
-      "fullName": "toma1vv assscczxzw",
-      "bvn": "000999888",
-      "proofOfAddressType": "Utility Bills",
-      "proofOfAddressFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406109/emis-gallery/x0ets9ejhqgq03qeuag9.png",
-      "identificationVerificationType": "National Identity Card",
-      "identificationVerificationFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406133/emis-gallery/awr0nwdrb7h6lftpqe9q.jpg",
-      "identificationNumber": "1122334455",
-      "passport": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406157/emis-gallery/aeh7ufegbc5mzdobzruj.jpg",
-      "referenceID": "DpO2PiZ",
-      "id": "H_z7MID"
-    }
-  ],
-  "business-information": [
-    {
-      "businessName": "tandem pharmacy",
-      "businessAddress": "45 bayo oyewole street, Ago",
-      "businessEmail": "ryanfave022@gmail.com",
-      "country": "Belarus",
-      "stateCity": "oshodi, isolo",
-      "phoneNumber": "+2349022698402",
-      "logo": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406207/emis-gallery/kjfjjuwsi3aww5dlmyih.jpg",
-      "websiteUrl": "https://favourryan.netlify.app",
-      "socialMediaInfo": [
+    "users": [
         {
-          "socialMediaName": "Github 👨‍💻",
-          "link": "https://www.github.com/ryanfavour4"
-        },
-        {
-          "socialMediaName": "Facebook 📘",
-          "link": "https://www.facebook.com/ryanfavour4"
-        },
-        {
-          "socialMediaName": "Linkedin 👔",
-          "link": "https://www.linkedin.com/in/chukwuka-favour-6b094b240"
+            "email": "toma1vv@assscczxzw.website",
+            "password": "toma1vv.",
+            "firstName": "toma1vv",
+            "lastName": "assscczxzw",
+            "userType": "channel partner",
+            "emailVerified": true,
+            "id": "DpO2PiZ"
         }
-      ],
-      "requiredDocuments": [
+    ],
+    "personal-information": [
         {
-          "requiredDocumentType": "Business registration",
-          "requiredDocumentFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406224/emis-gallery/uatellhz2gkhsnz5wvfl.jpg"
-        },
-        {
-          "requiredDocumentType": "Business license",
-          "requiredDocumentFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406238/emis-gallery/nio5xxvpch6x9uydxhzv.png"
+            "fullName": "toma1vv assscczxzw",
+            "bvn": "000999888",
+            "proofOfAddressType": "Utility Bills",
+            "proofOfAddressFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406109/emis-gallery/x0ets9ejhqgq03qeuag9.png",
+            "identificationVerificationType": "National Identity Card",
+            "identificationVerificationFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406133/emis-gallery/awr0nwdrb7h6lftpqe9q.jpg",
+            "identificationNumber": "1122334455",
+            "passport": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406157/emis-gallery/aeh7ufegbc5mzdobzruj.jpg",
+            "referenceID": "DpO2PiZ",
+            "id": "H_z7MID"
         }
-      ],
-      "referenceID": "DpO2PiZ",
-      "id": 2
-    }
-  ],
-  "bank-details": [
-    {
-      "bankName": "Zenith",
-      "accountNumber": "1234567890",
-      "bankSortCode": "0A9B8C7D",
-      "referenceID": "DpO2PiZ",
-      "id": 2
-    }
-  ]
+    ],
+    "business-information": [
+        {
+            "businessName": "tandem pharmacy",
+            "businessAddress": "45 bayo oyewole street, Ago",
+            "businessEmail": "ryanfave022@gmail.com",
+            "country": "Belarus",
+            "stateCity": "oshodi, isolo",
+            "phoneNumber": "+2349022698402",
+            "logo": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406207/emis-gallery/kjfjjuwsi3aww5dlmyih.jpg",
+            "websiteUrl": "https://favourryan.netlify.app",
+            "socialMediaInfo": [
+                {
+                    "socialMediaName": "Github 👨‍💻",
+                    "link": "https://www.github.com/ryanfavour4"
+                },
+                {
+                    "socialMediaName": "Facebook 📘",
+                    "link": "https://www.facebook.com/ryanfavour4"
+                },
+                {
+                    "socialMediaName": "Linkedin 👔",
+                    "link": "https://www.linkedin.com/in/chukwuka-favour-6b094b240"
+                }
+            ],
+            "requiredDocuments": [
+                {
+                    "requiredDocumentType": "Business registration",
+                    "requiredDocumentFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406224/emis-gallery/uatellhz2gkhsnz5wvfl.jpg"
+                },
+                {
+                    "requiredDocumentType": "Business license",
+                    "requiredDocumentFile": "https://res.cloudinary.com/ryanfavour4/image/upload/v1706406238/emis-gallery/nio5xxvpch6x9uydxhzv.png"
+                }
+            ],
+            "referenceID": "DpO2PiZ",
+            "id": 2
+        }
+    ],
+    "bank-details": [
+        {
+            "bankName": "Zenith",
+            "accountNumber": "1234567890",
+            "bankSortCode": "0A9B8C7D",
+            "referenceID": "DpO2PiZ",
+            "id": 2
+        }
+    ],
+    "contact-lists": [
+        {
+            "firstName": "toma1vv",
+            "lastName": "assscczxzw",
+            "phoneNumber": "+2349022698402",
+            "email": "XXXXXXXXXXXXXXXXXXX",
+            "message": "XXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "id": 2
+        }
+    ]
 }
