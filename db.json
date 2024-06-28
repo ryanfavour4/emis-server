@@ -83,12 +83,12 @@
     ],
     "general-ledger": [
         {
-            "name": "XXXXXX XXXXXX",
-            "description": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "name": "XXXXXX",
+            "description": "XXXXXXXXX",
             "isActive": true,
-            "subLedgerType": "XXXXXXXXXXXXXXXXXXX",
-            "createdAt": "2022-07-13T08:25:24.000Z",
-            "updatedAt": "2022-07-13T08:25:24.000Z",
+            "subLedgerType": "XXXXXXXXXXX",
+            "createdAt": "2022-07-13 08:25",
+            "updatedAt": "2022-07-13 08:25",
             "id": 1
         }
     ],
