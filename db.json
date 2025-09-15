@@ -117,55 +117,40 @@
     "todos": [{"task": "Jump from a 60ft story building and survive", "isCompleted": false}],
     "resources": [
         {
-            name: "The journey of big buck",
-            type: "video", 
-            src: "https://res.cloudinary.com/ryanfavour4/video/upload/v1757951948/mov_bbb_ffnlwo.mp4", 
-            tags: ["big", "bunny", "white", "hungry", "fat"]
-       },      {
-            name: "Diary of a caring mother",
-            type: "image", 
-            src: "https://res.cloudinary.com/ryanfavour4/image/upload/v1710109181/emis-gallery/pavepuwnvgntibmxciuh.jpg", 
-            tags: ["mother", "mom", "family", "baby", "black", "love"]
-       },       {
-            name: "The journey of big buck",
-            type: "video", 
-            src: "https://res.cloudinary.com/ryanfavour4/video/upload/v1757951948/mov_bbb_ffnlwo.mp4", 
-            tags: ["big", "bunny", "white", "hungry", "fat"]
-       },      {
-            name: "Diary of a caring mother",
-            type: "image", 
-            src: "https://res.cloudinary.com/ryanfavour4/image/upload/v1710109181/emis-gallery/pavepuwnvgntibmxciuh.jpg", 
-            tags: ["mother", "mom", "family", "baby", "black", "love"]
-       },       {
-            name: "The journey of big buck",
-            type: "video", 
-            src: "https://res.cloudinary.com/ryanfavour4/video/upload/v1757951948/mov_bbb_ffnlwo.mp4", 
-            tags: ["big", "bunny", "white", "hungry", "fat"]
-       },      {
-            name: "Diary of a caring mother",
-            type: "image", 
-            src: "https://res.cloudinary.com/ryanfavour4/image/upload/v1710109181/emis-gallery/pavepuwnvgntibmxciuh.jpg", 
-            tags: ["mother", "mom", "family", "baby", "black", "love"]
-       },       {
-            name: "The journey of big buck",
-            type: "video", 
-            src: "https://res.cloudinary.com/ryanfavour4/video/upload/v1757951948/mov_bbb_ffnlwo.mp4", 
-            tags: ["big", "bunny", "white", "hungry", "fat"]
-       },      {
-            name: "Diary of a caring mother",
-            type: "image", 
-            src: "https://res.cloudinary.com/ryanfavour4/image/upload/v1710109181/emis-gallery/pavepuwnvgntibmxciuh.jpg", 
-            tags: ["mother", "mom", "family", "baby", "black", "love"]
-       },       {
-            name: "The journey of big buck",
-            type: "video", 
-            src: "https://res.cloudinary.com/ryanfavour4/video/upload/v1757951948/mov_bbb_ffnlwo.mp4", 
-            tags: ["big", "bunny", "white", "hungry", "fat"]
-       },      {
-            name: "Diary of a caring mother",
-            type: "image", 
-            src: "https://res.cloudinary.com/ryanfavour4/image/upload/v1710109181/emis-gallery/pavepuwnvgntibmxciuh.jpg", 
-            tags: ["mother", "mom", "family", "baby", "black", "love"]
-       }
+            "name": "The journey of big buck",
+            "type": "video", 
+            "src": "https://res.cloudinary.com/ryanfavour4/video/upload/v1757951948/mov_bbb_ffnlwo.mp4", 
+            "tags": ["big", "bunny", "white", "hungry", "fat"]
+        },     
+        {
+            "name": "Diary of a caring mother",
+            "type": "image", 
+            "src": "https://res.cloudinary.com/ryanfavour4/image/upload/v1710109181/emis-gallery/pavepuwnvgntibmxciuh.jpg", 
+            "tags": ["mother", "mom", "family", "baby", "black", "love"]
+        },
+               {
+            "name": "The journey of big buck",
+            "type": "video", 
+            "src": "https://res.cloudinary.com/ryanfavour4/video/upload/v1757951948/mov_bbb_ffnlwo.mp4", 
+            "tags": ["big", "bunny", "white", "hungry", "fat"]
+        },     
+        {
+            "name": "Diary of a caring mother",
+            "type": "image", 
+            "src": "https://res.cloudinary.com/ryanfavour4/image/upload/v1710109181/emis-gallery/pavepuwnvgntibmxciuh.jpg", 
+            "tags": ["mother", "mom", "family", "baby", "black", "love"]
+        },
+               {
+            "name": "The journey of big buck",
+            "type": "video", 
+            "src": "https://res.cloudinary.com/ryanfavour4/video/upload/v1757951948/mov_bbb_ffnlwo.mp4", 
+            "tags": ["big", "bunny", "white", "hungry", "fat"]
+        },     
+        {
+            "name": "Diary of a caring mother",
+            "type": "image", 
+            "src": "https://res.cloudinary.com/ryanfavour4/image/upload/v1710109181/emis-gallery/pavepuwnvgntibmxciuh.jpg", 
+            "tags": ["mother", "mom", "family", "baby", "black", "love"]
+        }
     ]
 }
